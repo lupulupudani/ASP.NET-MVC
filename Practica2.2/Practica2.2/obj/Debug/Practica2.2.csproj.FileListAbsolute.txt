@@ -1,0 +1,49 @@
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.dll.config
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.pdb
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Helpers.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Mvc.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Razor.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Razor.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Helpers.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Mvc.xml
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\obj\Debug\Practica2.2.dll
+C:\Users\Javier\Desktop\cursos\MVC\PRACTICAS\Practica2.2\Practica2.2\obj\Debug\Practica2.2.pdb
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.dll.config
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Practica2.2.pdb
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Helpers.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Mvc.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Razor.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Deployment.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Razor.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Microsoft.Web.Infrastructure.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Razor.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Deployment.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Webpages.Razor.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Helpers.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\System.Web.Mvc.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\Microsoft.Web.Infrastructure.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Razor.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.Deployment.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Webpages.Razor.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Helpers.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\bin\es\System.Web.Mvc.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\obj\Debug\Practica2.2.csprojResolveAssemblyReference.cache
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\obj\Debug\Practica2.2.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\MVC\PRACTICAS\Practica2.2\Practica2.2\obj\Debug\Practica2.2.pdb

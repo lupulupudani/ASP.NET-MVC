@@ -1,0 +1,35 @@
+﻿@using MVCEjercicio3_1Vistas.Models
+@model Persona[]
+@{
+    ViewBag.Title = "ArrayPersona";
+    Layout = "~/Views/shared/_plantilla.cshtml";
+}
+
+<h2>ArrayPersona</h2>
+<div>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id Persona</th>
+                <th>Nombre</th>
+                <th>Edad</th>
+                <th>Profesion</th>
+                <th>Sueldo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Persona p in Model)
+            {
+                <tr>
+                    <td>@p.IdPersona</td>
+                    <td>@p.Nombre</td>
+                    <td>@p.Edad</td>
+                    <td>@p.Profesion</td>
+                    <td>@p.Sueldo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+</div>
+
